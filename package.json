@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-hw01",
+  "version": "1.0.0",
+  "description": "home work 01 nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TkachAn/nodeJs-HW01.git"
+  },
+  "keywords": [],
+  "author": "TkachAn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TkachAn/nodeJs-HW01/issues"
+  },
+  "homepage": "https://github.com/TkachAn/nodeJs-HW01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
