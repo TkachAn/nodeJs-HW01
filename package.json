@@ -21,5 +21,10 @@
   "homepage": "https://github.com/TkachAn/nodeJs-HW01#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "nanoid": "^3.3.4"
   }
 }
